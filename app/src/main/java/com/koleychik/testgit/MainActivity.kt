@@ -9,8 +9,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("don't do that anymore")
-        println("commit first")
-        println("commit second")
+        println("commit shit first")
+        println("commit shit second too")
         print("i am saying, that i am ")
     }
 }
