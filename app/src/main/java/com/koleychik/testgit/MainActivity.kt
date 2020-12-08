@@ -13,5 +13,7 @@ class MainActivity : AppCompatActivity() {
         println("commit shit second too")
         print("i am saying, that i am ")
         println("y'all are sucking dick, i'm boss")
+
+        println("well, than i get you a new level")
     }
 }
