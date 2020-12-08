@@ -8,8 +8,9 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        println("This is main part")
+        println("don't do that anymore")
         println("commit first")
         println("commit second")
+        print("i am saying, that i am ")
     }
 }
