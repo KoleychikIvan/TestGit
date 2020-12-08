@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
 
         println("don't do that anymore")
         println("commit shit first")
-        println("commit shit second too")
+        println("commit ")
         print("i am saying, that i am ")
         println("y'all are sucking dick, i'm boss")
 
