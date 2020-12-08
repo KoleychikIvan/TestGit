@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("don't do that anymore")
-        println("commit shit first")
+        println("")
         println("commit ")
         print("i am saying, that i am ")
         println("y'all are sucking dick, i'm boss")
