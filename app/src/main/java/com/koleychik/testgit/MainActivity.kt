@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         println("commit shit first")
         println("commit shit second too")
         print("i am saying, that i am ")
+        println("y'all are sucking dick, i'm boss")
     }
 }
